@@ -200,4 +200,6 @@ Possible extensions include:
 
 ## License
 
-Add a license file (for example, an MIT License) if you intend to distribute or publish this project. No license is specified here, so usage and redistribution terms have not been assumed.
+This project is licensed under the [MIT License](LICENSE).
+
+See the `LICENSE` file for details.
